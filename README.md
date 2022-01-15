@@ -24,7 +24,7 @@ Images of DataFrames are shown below. "Clean Data" refers to the data after the 
 
 **Figure 4. School Summary - Clean Data**
 
-![image 4](resources/after_school_sum.png)
+![image 4](resources/after_school_sum2.png)
 
 **Figure 5. Math Scores by Grade - Original Data**
 
@@ -69,4 +69,12 @@ Images of DataFrames are shown below. "Clean Data" refers to the data after the 
 ### Discussion
 
 * As seen in Figures 1 and 2, the average math score slightly dropped after the Thomas High School 9th grade students were removed, thereby lowering the percentage of students passing math. While the average reading score appears to have stayed the same, the slight drop in percent passing reading implies that at least one removed student had originally passed math. The static average reading score is likely due to rounding. Overall, a smaller proportion of students had passing grades after the data was cleaned.
-* Figures 3 and 4 
+* Figures 3 and 4 show the difference in the summary by school. The only school of note is Thomas High School, which expectedly shows a drop in the percentage of students passing both reading and math. Interestingly, the average reading score increased after the dishonest scores were removed. This says that students in 9th grade who originally failedlikely did so with considerably low scores.
+* Figures 5-8 confirm that 9th grade reading and math scores were removed while 10th-12th grade scores remained unchanged.
+* It can be gleaned from Figures 9 and 10 that Thomas High School spends between $630 and $644 per student, as the percent passing reading and percent passing overall for that spending range decreased after Thomas High 9th graders were removed.
+* Similarly, the percentage of students passing math, passing reading, and passing overall all decreased for medium sized schools. This is expected as Thomas High School falls firmly in the middle of the medium size range at 1,635 students.
+* Finally, changes to Thomas High School grades are reflected in the decrease in percentage of students passing math and reading in Charter schools, shown in Figures 13 and 14. The percentage of students passing overall appears unchanged, but this must be due to rounding as math and reading numbers both went down by small amounts.
+
+## Summary
+
+Overall, the average reading and math scores at Thomas High School decreased when the scores from 9th graders were removed. This led to a decrease in these metrics for schools that spend between $630 and $644 per students, medium-sized schools, and charter schools. It also resulted in Thomas High School dropping out of the top 5 schools in percentage of students passing overall in this district. Since all metrics dropped when 9th grade scores were removed, it can be determined that 9th grade scores were high compared to grades 10-12. While this does not prove definitively that academic dishonesty was occuring amongst 9th grade students at Thomas High School, it certainly supports the theory.
