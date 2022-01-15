@@ -16,7 +16,7 @@ Images of DataFrames are shown below. "Clean Data" refers to the data after the 
 
 **Figure 2. District Summary - Clean Data**
 
-![image 2](resources/after_district_sum.png)
+![image 2](resources/after_district_sum2.png)
 
 **Figure 3. School Summary - Original Data**
 
