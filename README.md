@@ -11,4 +11,4 @@ The purpose of this analysis was to calculate and examine various performance me
 Images of DataFrames are shown below.
 
 **District Summary - Original Data**
-![1](resources/before_district_sum.png)
+![img1](/resources/before_district_sum.png)
