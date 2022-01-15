@@ -65,3 +65,7 @@ Images of DataFrames are shown below. "Clean Data" refers to the data after the 
 **Figure 14. Scores by School Type - Clean Data**
 
 ![image 14](resources/after_type.png)
+
+### Discussion
+
+* As seen in Figures 1 and 2, the average math score slightly dropped after the Thomas High School 9th grade students were removed. While the average reading score appears to have stayed the same,
