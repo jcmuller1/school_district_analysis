@@ -68,4 +68,5 @@ Images of DataFrames are shown below. "Clean Data" refers to the data after the 
 
 ### Discussion
 
-* As seen in Figures 1 and 2, the average math score slightly dropped after the Thomas High School 9th grade students were removed. While the average reading score appears to have stayed the same,
+* As seen in Figures 1 and 2, the average math score slightly dropped after the Thomas High School 9th grade students were removed, thereby lowering the percentage of students passing math. While the average reading score appears to have stayed the same, the slight drop in percent passing reading implies that at least one removed student had originally passed math. The static average reading score is likely due to rounding. Overall, a smaller proportion of students had passing grades after the data was cleaned.
+* Figures 3 and 4 
