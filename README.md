@@ -8,7 +8,46 @@ The purpose of this analysis was to calculate and examine various performance me
 
 ### Results
 
-Images of DataFrames are shown below.
+Images of DataFrames are shown below. "Clean Data" refers to the data after the 9th grade scores from Thomas High School were removed.
 
-**District Summary - Original Data**
+**Figure 1. District Summary - Original Data**
 ![image 1](resources/before_district_sum.png)
+
+**Figure 2. District Summary - Clean Data**
+![image 2](resources/after_district_sum.png)
+
+**Figure 3. School Summary - Original Data**
+![image 3](resources/before_school_sum.png)
+
+**Figure 4. School Summary - Clean Data**
+![image 4](resources/after_school_sum.png)
+
+**Figure 5. Math Scores by Grade - Original Data**
+![image 5](resources/before_math_by_grade)
+
+**Figure 6. Math Scores by Grade - Clean Data**
+![image 6](resources/after_math_by_grade)
+
+**Figure 7. Reading Scores by Grade - Original Data**
+![image 7](resources/before_reading_by_grade)
+
+**Figure 8. Reading Scores by Grade - Clean Data**
+![image 8](resources/after_reading_by_grade)
+
+**Figure 9. Scores by School Spending - Original Data**
+![image 9](resources/before_spend)
+
+**Figure 10. Scores by School Spending - Clean Data**
+![image 10](resources/after_spend)
+
+**Figure 11. Scores by School Size - Original Data**
+![image 11](resources/before_size)
+
+**Figure 12. Scores by School Size - Clean Data**
+![image 12](resources/after_size)
+
+**Figure 13. Scores by School Type - Original Data**
+![image 13](resources/before_type)
+
+**Figure 14. Scores by School Type - Clean Data**
+![image 14](resources/after_type)
