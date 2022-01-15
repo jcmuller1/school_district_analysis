@@ -26,9 +26,9 @@ Images of DataFrames are shown below. "Clean Data" refers to the data after the 
 
 ![image 4](resources/after_school_sum.png)
 
-**Figure 5. Math Scores by Grade - Original Data**
+**Figure 5. Math Scores by Grade - Original Data**\t\t**Figure 6. Math Scores by Grade - Clean Data**
 
-![image 5](resources/before_math_by_grade.png)
+![image 5](resources/before_math_by_grade.png)\t\t\t![test](resources/after_math_by_grade.png)
 
 **Figure 6. Math Scores by Grade - Clean Data**
 
